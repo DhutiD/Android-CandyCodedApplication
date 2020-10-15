@@ -36,8 +36,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,30 +207,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602769369769" />
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1602778200153">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1602793491066">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602778200153" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602793491066" />
     <state x="110" y="120" width="1146" height="488" key="AVDManager" timestamp="1602784300507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1602784300507" />
-    <state width="1286" height="154" key="GridCell.Tab.0.bottom" timestamp="1602792417234">
+    <state width="1286" height="154" key="GridCell.Tab.0.bottom" timestamp="1602794548678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602792417234" />
-    <state width="1286" height="154" key="GridCell.Tab.0.center" timestamp="1602792417232">
+    <state width="1286" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602794548678" />
+    <state width="1286" height="154" key="GridCell.Tab.0.center" timestamp="1602794548403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602792417232" />
-    <state width="1286" height="154" key="GridCell.Tab.0.left" timestamp="1602792417073">
+    <state width="1286" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602794548403" />
+    <state width="1286" height="154" key="GridCell.Tab.0.left" timestamp="1602794548243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602792417073" />
-    <state width="1286" height="154" key="GridCell.Tab.0.right" timestamp="1602792417233">
+    <state width="1286" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602794548243" />
+    <state width="1286" height="154" key="GridCell.Tab.0.right" timestamp="1602794548660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602792417233" />
+    <state width="1286" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602794548660" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1602786093815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
